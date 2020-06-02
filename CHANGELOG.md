@@ -60,3 +60,5 @@
 - 2024-09-13: Added visual border and cleaner board rendering.
 - 2023-12-16: Improved food placement logic.
 - 2023-09-15: Refined movement responsiveness.
+- 2020-06-02: Foundation polish.
+
