@@ -62,3 +62,5 @@
 - 2023-09-15: Refined movement responsiveness.
 - 2020-06-02: Foundation polish.
 
+- 2020-06-05: Input refinement.
+
