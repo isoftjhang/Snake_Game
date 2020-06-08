@@ -64,3 +64,5 @@
 
 - 2020-06-05: Input refinement.
 
+- 2020-06-08: Movement tuning.
+
