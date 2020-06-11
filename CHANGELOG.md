@@ -66,3 +66,5 @@
 
 - 2020-06-08: Movement tuning.
 
+- 2020-06-11: Food logic pass.
+
