@@ -68,3 +68,5 @@
 
 - 2020-06-11: Food logic pass.
 
+- 2020-06-14: Board clarity pass.
+
