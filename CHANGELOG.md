@@ -70,3 +70,5 @@
 
 - 2020-06-14: Board clarity pass.
 
+- 2020-06-17: Score feedback pass.
+
