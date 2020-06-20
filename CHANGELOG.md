@@ -72,3 +72,5 @@
 
 - 2020-06-17: Score feedback pass.
 
+- 2020-06-20: Collision handling pass.
+
