@@ -80,3 +80,5 @@
 
 - 2020-06-29: Speed tuning pass.
 
+- 2020-07-02: Loop stabilization.
+
