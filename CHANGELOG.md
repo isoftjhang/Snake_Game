@@ -82,3 +82,5 @@
 
 - 2020-07-02: Loop stabilization.
 
+- 2020-07-05: Visual polish.
+
