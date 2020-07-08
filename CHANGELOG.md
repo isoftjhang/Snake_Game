@@ -84,3 +84,5 @@
 
 - 2020-07-05: Visual polish.
 
+- 2020-07-08: Grid refinement.
+
