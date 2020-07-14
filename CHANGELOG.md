@@ -88,3 +88,5 @@
 
 - 2020-07-11: State handling pass.
 
+- 2020-07-14: Rendering pass.
+
