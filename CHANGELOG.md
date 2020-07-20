@@ -92,3 +92,5 @@
 
 - 2020-07-17: Game flow pass.
 
+- 2020-07-20: Readability pass.
+
