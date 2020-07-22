@@ -7,11 +7,12 @@ class Food:
         self.board_height = board_height
         self.position = self.spawn_food([])
 
-    def spawn_food(self, snake_body):
+    def spawn_food(self, snake_body, obstacles=None):
+        obstacles = obstacles or []
         while True:
             x = random.randrange(0, self.board_width, 20)
             y = random.randrange(0, self.board_height, 20)
-            if (x, y) not in snake_body:
+            if (x, y) not in snake_body and (x, y) not in obstacles:
                 self.position = (x, y)
                 return self.position
 
