@@ -94,3 +94,5 @@
 
 - 2020-07-20: Readability pass.
 
+- 2020-07-23: Structure pass.
+
