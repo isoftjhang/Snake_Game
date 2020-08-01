@@ -100,3 +100,5 @@
 
 - 2020-07-29: README refresh.
 
+- 2020-08-01: Workflow notes.
+
