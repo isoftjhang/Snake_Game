@@ -104,3 +104,5 @@
 
 - 2020-08-04: Import cleanup.
 
+- 2020-08-07: Changelog update.
+
