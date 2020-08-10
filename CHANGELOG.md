@@ -106,3 +106,5 @@
 
 - 2020-08-07: Changelog update.
 
+- 2020-08-10: Board spacing pass.
+
