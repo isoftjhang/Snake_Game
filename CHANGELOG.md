@@ -108,3 +108,5 @@
 
 - 2020-08-10: Board spacing pass.
 
+- 2020-08-13: Game-over polish.
+
