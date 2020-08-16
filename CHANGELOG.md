@@ -110,3 +110,5 @@
 
 - 2020-08-13: Game-over polish.
 
+- 2020-08-16: Reset routine pass.
+
