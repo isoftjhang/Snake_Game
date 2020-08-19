@@ -112,3 +112,5 @@
 
 - 2020-08-16: Reset routine pass.
 
+- 2020-08-19: Spawn reliability pass.
+
