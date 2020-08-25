@@ -116,3 +116,5 @@
 
 - 2020-08-22: Window branding pass.
 
+- 2020-08-25: Event handling pass.
+
