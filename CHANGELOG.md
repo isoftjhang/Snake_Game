@@ -118,3 +118,5 @@
 
 - 2020-08-25: Event handling pass.
 
+- 2020-08-28: Project structure pass.
+
