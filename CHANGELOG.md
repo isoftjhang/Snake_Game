@@ -126,3 +126,5 @@
 
 - 2020-09-06: Milestone journey.
 
+- 2020-09-09: Gameplay polish.
+
