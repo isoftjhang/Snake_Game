@@ -128,3 +128,5 @@
 
 - 2020-09-09: Gameplay polish.
 
+- 2020-09-12: Visual hierarchy pass.
+
