@@ -142,3 +142,5 @@
 
 - 2020-09-30: Stability pass.
 
+- 2020-10-03: Gameplay balance.
+
