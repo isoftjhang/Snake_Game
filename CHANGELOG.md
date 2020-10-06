@@ -144,3 +144,5 @@
 
 - 2020-10-03: Gameplay balance.
 
+- 2020-10-06: Experience polish.
+
