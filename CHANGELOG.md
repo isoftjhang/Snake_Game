@@ -154,3 +154,5 @@
 
 - 2020-10-18: Release prep.
 
+- 2020-10-21: Feature sweep.
+
