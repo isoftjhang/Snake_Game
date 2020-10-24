@@ -156,3 +156,5 @@
 
 - 2020-10-21: Feature sweep.
 
+- 2020-10-24: Consistency pass.
+
