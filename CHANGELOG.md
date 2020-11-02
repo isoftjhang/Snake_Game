@@ -162,3 +162,5 @@
 
 - 2020-10-30: Refinement pass.
 
+- 2020-11-02: Iteration 2.
+
