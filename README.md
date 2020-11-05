@@ -45,6 +45,7 @@ This version includes several improvements:
 - Start screen with instructions
 - Difficulty selection on the menu (Easy / Medium / Hard)
 - Obstacle hazards that appear as your level increases
+- Keyboard shortcut hints for pause and menu navigation
 - Pause support with the `P` key
 - Level progression as your score increases
 - High score persistence across runs
