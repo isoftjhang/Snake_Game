@@ -166,3 +166,5 @@
 
 - 2020-11-05: Evolution pass.
 
+- 2020-11-08: Refined progression.
+
