@@ -168,3 +168,5 @@
 
 - 2020-11-08: Refined progression.
 
+- 2020-11-11: Progress update.
+
