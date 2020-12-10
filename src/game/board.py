@@ -49,6 +49,8 @@ class Board:
             restart_text = font.render("Press R to restart", True, (255, 255, 255))
             window.blit(game_over_text, (self.width // 2 - 80, self.height // 2 - 20))
             window.blit(restart_text, (self.width // 2 - 100, self.height // 2 + 20))
+            menu_hint_text = font.render("Press ESC to return to menu", True, (255, 255, 255))
+            window.blit(menu_hint_text, (self.width // 2 - 180, self.height // 2 + 60))
         elif state == "menu":
             overlay = pygame.Surface((self.width, self.height), pygame.SRCALPHA)
             overlay.fill((0, 0, 0, 220))

@@ -63,6 +63,15 @@ class SnakeGameTests(unittest.TestCase):
             self.assertEqual(obstacle[0] % 20, 0)
             self.assertEqual(obstacle[1] % 20, 0)
 
+    def test_obstacle_spawns_are_unique(self):
+        obstacle_manager = ObstacleManager(board_width=200, board_height=200)
+        snake_body = [(0, 0), (20, 0)]
+        food_position = (40, 0)
+
+        obstacles = obstacle_manager.spawn_obstacles(snake_body, food_position, count=4)
+
+        self.assertEqual(len(obstacles), len(set(obstacles)))
+
 
 if __name__ == "__main__":
     unittest.main()

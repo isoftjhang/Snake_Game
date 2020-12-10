@@ -10,6 +10,7 @@ class ObstacleManager:
     def spawn_obstacles(self, snake_body, food_position, count):
         self.obstacles = []
         attempts = 0
+        # Prevent infinite loops when the board becomes crowded.
         while len(self.obstacles) < count and attempts < 1000:
             x = random.randrange(0, self.board_width, 20)
             y = random.randrange(0, self.board_height, 20)
