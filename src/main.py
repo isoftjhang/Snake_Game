@@ -98,6 +98,8 @@ def main():
                         speed = DIFFICULTIES[difficulty]["speed"]
                 elif state in (GameState.GAME_OVER, GameState.PLAYING) and event.key == pygame.K_r:
                     reset_game()
+                elif state in (GameState.GAME_OVER, GameState.PAUSED, GameState.PLAYING) and event.key == pygame.K_ESCAPE:
+                    state = GameState.MENU
                 elif state == GameState.PLAYING and event.key == pygame.K_p:
                     state = GameState.PAUSED
                 elif state == GameState.PAUSED and event.key == pygame.K_p:
