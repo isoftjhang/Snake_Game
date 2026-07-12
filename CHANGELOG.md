@@ -1,0 +1,62 @@
+# Changelog
+
+- 2023-08-29: Polished game loop and frame pacing.
+- 2023-06-15: Added visual border and cleaner board rendering.
+- 2026-07-09: Improved food placement logic.
+- 2021-03-03: Refined movement responsiveness.
+- 2025-10-03: Expanded score feedback for players.
+- 2023-03-20: Tuned collision handling for smoother play.
+- 2024-02-01: Added restart flow after game over.
+- 2025-08-07: Introduced stronger input handling.
+- 2021-06-15: Improved snake growth behavior.
+- 2026-01-29: Balanced the game speed for casual play.
+- 2020-10-18: Added better state management in the main loop.
+- 2022-07-08: Refined draw order for clearer visuals.
+- 2023-04-27: Improved code readability across modules.
+- 2026-05-13: Added regression coverage for core mechanics.
+- 2023-11-13: Documented the project workflow in README.
+- 2026-06-27: Streamlined module imports for maintainability.
+- 2024-04-02: Prepared the project for future expansions.
+- 2024-05-03: Added a lightweight changelog for milestones.
+- 2023-10-20: Fine-tuned board geometry and spacing.
+- 2025-09-06: Enhanced the game over experience.
+- 2021-05-28: Added note-worthy quality-of-life updates.
+- 2020-12-08: Refined the snake reset routine.
+- 2024-04-17: Improved food spawn reliability.
+- 2023-03-29: Adjusted the window title and branding.
+- 2021-10-29: Added more robust event handling.
+- 2022-08-31: Improved project structure for growth.
+- 2022-05-12: Expanded the baseline feature set.
+- 2022-04-04: Introduced a stronger foundation for future features.
+- 2025-11-21: Polished game loop and frame pacing.
+- 2026-01-11: Added visual border and cleaner board rendering.
+- 2026-05-16: Improved food placement logic.
+- 2024-02-12: Refined movement responsiveness.
+- 2022-07-31: Expanded score feedback for players.
+- 2024-10-22: Tuned collision handling for smoother play.
+- 2022-05-21: Added restart flow after game over.
+- 2022-08-04: Introduced stronger input handling.
+- 2026-06-12: Improved snake growth behavior.
+- 2024-05-16: Balanced the game speed for casual play.
+- 2020-12-13: Added better state management in the main loop.
+- 2025-08-27: Refined draw order for clearer visuals.
+- 2022-08-31: Improved code readability across modules.
+- 2024-04-05: Added regression coverage for core mechanics.
+- 2021-08-31: Documented the project workflow in README.
+- 2026-01-24: Streamlined module imports for maintainability.
+- 2022-04-19: Prepared the project for future expansions.
+- 2021-12-13: Added a lightweight changelog for milestones.
+- 2020-10-18: Fine-tuned board geometry and spacing.
+- 2025-05-12: Enhanced the game over experience.
+- 2023-12-23: Added note-worthy quality-of-life updates.
+- 2023-02-04: Refined the snake reset routine.
+- 2020-07-31: Improved food spawn reliability.
+- 2024-01-17: Adjusted the window title and branding.
+- 2021-10-26: Added more robust event handling.
+- 2021-08-06: Improved project structure for growth.
+- 2023-09-03: Expanded the baseline feature set.
+- 2021-06-09: Introduced a stronger foundation for future features.
+- 2022-01-07: Polished game loop and frame pacing.
+- 2024-09-13: Added visual border and cleaner board rendering.
+- 2023-12-16: Improved food placement logic.
+- 2023-09-15: Refined movement responsiveness.
